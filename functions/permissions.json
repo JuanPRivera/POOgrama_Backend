@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "watchful-audio-293805",
+  "private_key_id": "d21da49f7503da69d4d866b07faa2d1521ddd14d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC0na/I7C8lH90s\nLytGcId6C9p2EiI0Gx3LW1Y8z0KHN5ZqRh6191qnFi/h0Ljg/0LafloHympE+P4M\n2JNSoUTYe583+L02/D4eXDJ6wTXsmf7FxduqJP7tdMSIZPJqKkpc9FyD/XAOuIhM\nkF08iNLNkmzfwUfFRn0MPwV+wJVtwZXX2SHV47sLuhd6/dFJhGqm6ggnTd45S5M9\n4Je+Vt59vlVNykmNMfYGJ7/P0QOIqfbNLfcGc6vKXV5gpsDIxqgCxpp5QHJD8zCQ\n9hwsyFp3Qj4vA7z9CRCpU9m0Y4LB6NUnfKfgInAOmLr5CB1Irg63G3V1muol+VTu\n2u2YTgXJAgMBAAECggEAFiNbUd5wN2XQ0Vr9PAqsMl+MUQtPNbGKrPu2pei2E/aS\naVeLqVxmmEMSDqTLmmlzR250CM8syCQ4WHj90sOZWYsKhJzojVos34IHvm/a9ROZ\njKKANppHBHI66ihsZaqmF39srRF2CBnie/b4dKRlKUUcsu7hBgtKJcN+QA9pKWz7\nWhCcLSM2MLE0YODtVH/ZhdlooyMyEPdpYI/1KFp92LlXn2yIFD2tviRoALg7P/es\n3kqpKTqufSaDASVJqOKoz0TKEO+GfjQO8co1KAx5PAumLXQPja0zRfAiRnJR566C\nyNEahWVsu0qHC6Yh6cGNkdG1qjHqKeAUcbRvmfnG4QKBgQDumyEU6vLYVVTCUKDA\nDxnGOldX04/C586T0/xYcIcNIbHFOZt6OUcAgRmBLaQ2V9DgE2UAfjChvytYrtuL\n0iMiZqdH/6Jf6D5MUnXZ+4GXdRYrcezFPCWhE0CyKZmsRHxdxlKWdYvGGObrNUx4\nC0Ckp7loNVD8HexI1e4QqLPNKQKBgQDByFist5ZrOwWt8zFGzWkn2okKdZGmn+op\ngGNwBI9eRgqdn2bdCerrdHBssC6URjsD/ul5lM2poBVjD9FragS2WAj0kuD0hH1H\nhWKFwTBZSlHEZK90+azJO8DCG7/rWyvQJvqgz6SbROqu38ShbFb20VhTAe0v/LSv\nJGnzgYrnoQKBgFibEPjkmtPNNFGIgXlw4iBjr+W0cbFuRZ9N3Gq3Nt+ggJR95QfJ\nV12Pk3oOCeoISE+9xAcf1U1rYVxoaq0MlvGCb2JkQtcctm2/PXZ6WFB3MYlmoAdK\nY6riLGc83Y1ETW7BZA/tjL8+phn4S/JUM2gxxL829WD6d7FAiEx1aXepAoGAWT/U\n13eWp7x/WSZww5NHoztbcp3Df2KXjpW7NpRjE6Bes0n/Lj6rG9Z9ERHz4gaWl7iH\n/58xObapIv7eDQK/ONxDA6HCSdvbd11Pixr3EajREArvZIi5s9T5am0tb1CGVVAe\njoIT5g9Pp0sYXOBxDSxN6a0xeLCC50d2JNi9CQECgYEAx5EjJy9CC4JzEOKAelMB\nZSMbq7fcQA/1yhguD5EwWRACeQcncB66Xrt14xM2s7fiRF+rldRlX76uVriyzBnF\nI3UHDCWkeIjnmxiveUGtlAqs7+uPcUYG8tcW/pWTkDT0wwfXxrlAvYnco1nhnNzt\nZx/cRnELVH0V0LLHxch3XLA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pplpk@watchful-audio-293805.iam.gserviceaccount.com",
+  "client_id": "115361421153442082907",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pplpk%40watchful-audio-293805.iam.gserviceaccount.com"
+}
