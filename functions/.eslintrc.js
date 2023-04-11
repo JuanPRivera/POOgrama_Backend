@@ -21,7 +21,9 @@ module.exports = {
       env: {
         mocha: true,
       },
-      rules: {},
+      rules: {
+        'linebreak-style': ["error", "windows"]
+      },
     },
   ],
   globals: {},
